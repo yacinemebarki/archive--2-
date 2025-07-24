@@ -1,0 +1,246 @@
+year,team,manager_changed
+2014,man city,No
+2014,liverpool,No
+2014,chelsea,No
+2014,arsenal,No
+2014,everton,No
+2014,tottenham,Yes
+2014,man utd,Yes
+2014,southampton,Yes
+2014,stoke city,No
+2014,newcastle,No
+2014,crystal palace,Yes
+2014,swansea,No
+2014,west ham,No
+2014,sunderland,Yes
+2014,aston villa,No
+2014,hull city,No
+2014,west brom,Yes
+2014,norwich,No
+2014,fulham,No
+2014,cardiff,No
+2014,leicester,Yes
+2014,burnley,No
+2014,qpr,Yes
+2015,man city,No
+2015,liverpool,No
+2015,chelsea,No
+2015,arsenal,No
+2015,everton,No
+2015,tottenham,No
+2015,man utd,No
+2015,southampton,No
+2015,stoke city,No
+2015,newcastle,Yes
+2015,crystal palace,Yes
+2015,swansea,No
+2015,west ham,Yes
+2015,sunderland,Yes
+2015,aston villa,Yes
+2015,hull city,No
+2015,west brom,No
+2015,norwich,No
+2015,watford,No
+2015,bournemouth,No
+2015,leicester,No
+2016,arsenal,No
+2016,aston villa,No
+2016,bournemouth,No
+2016,burnley,No
+2016,chelsea,Yes
+2016,crystal palace,No
+2016,everton,Yes
+2016,hull city,Yes
+2016,leicester,No
+2016,liverpool,No
+2016,man city,Yes
+2016,man utd,Yes
+2016,middlesbrough,No
+2016,southampton,No
+2016,stoke city,No
+2016,sunderland,No
+2016,swansea,Yes
+2016,tottenham,No
+2016,watford,No
+2016,west brom,No
+2016,west ham,No
+2017,arsenal,No
+2017,bournemouth,No
+2017,brighton,No
+2017,burnley,No
+2017,chelsea,Yes
+2017,crystal palace,Yes
+2017,everton,Yes
+2017,huddersfield,No
+2017,leicester,No
+2017,liverpool,No
+2017,man city,No
+2017,man utd,No
+2017,newcastle,No
+2017,southampton,Yes
+2017,stoke city,No
+2017,swansea,Yes
+2017,tottenham,No
+2017,watford,No
+2017,west brom,Yes
+2017,west ham,No
+2018,arsenal,Yes
+2018,bournemouth,No
+2018,brighton,No
+2018,burnley,No
+2018,cardiff,No
+2018,chelsea,Yes
+2018,crystal palace,No
+2018,everton,Yes
+2018,fulham,No
+2018,huddersfield,No
+2018,leicester,No
+2018,liverpool,No
+2018,man city,No
+2018,man utd,Yes
+2018,newcastle,No
+2018,southampton,Yes
+2018,tottenham,No
+2018,watford,No
+2018,west ham,Yes
+2018,wolves,No
+2019,arsenal,No
+2019,aston villa,No
+2019,bournemouth,No
+2019,brighton,Yes
+2019,burnley,No
+2019,chelsea,Yes
+2019,crystal palace,No
+2019,everton,Yes
+2019,leicester,No
+2019,liverpool,No
+2019,man city,No
+2019,man utd,Yes
+2019,newcastle,Yes
+2019,norwich,No
+2019,sheff utd,No
+2019,southampton,No
+2019,tottenham,Yes
+2019,watford,Yes
+2019,west ham,No
+2019,wolves,No
+2020,arsenal,No
+2020,aston villa,No
+2020,brighton,No
+2020,burnley,No
+2020,chelsea,Yes
+2020,crystal palace,No
+2020,everton,No
+2020,fulham,No
+2020,leeds,No
+2020,leicester,No
+2020,liverpool,No
+2020,man city,No
+2020,man utd,No
+2020,newcastle,No
+2020,sheff utd,No
+2020,southampton,No
+2020,tottenham,Yes
+2020,west brom,No
+2020,west ham,No
+2020,wolves,No
+2021,arsenal,No
+2021,aston villa,Yes
+2021,brentford,No
+2021,brighton,No
+2021,burnley,No
+2021,chelsea,Yes
+2021,crystal palace,Yes
+2021,everton,Yes
+2021,leeds,No
+2021,leicester,No
+2021,liverpool,No
+2021,man city,No
+2021,man utd,Yes
+2021,newcastle,Yes
+2021,norwich,No
+2021,southampton,No
+2021,tottenham,Yes
+2021,watford,Yes
+2021,west ham,No
+2021,wolves,No
+2022,arsenal,No
+2022,aston villa,Yes
+2022,bournemouth,Yes
+2022,brentford,No
+2022,brighton,Yes
+2022,chelsea,Yes
+2022,crystal palace,No
+2022,everton,No
+2022,fulham,No
+2022,leeds,No
+2022,leicester,No
+2022,liverpool,No
+2022,man city,No
+2022,man utd,Yes
+2022,newcastle,No
+2022,nottm forest,No
+2022,southampton,No
+2022,tottenham,No
+2022,west ham,No
+2022,wolves,Yes
+2023,arsenal,No
+2023,aston villa,No
+2023,bournemouth,No
+2023,brentford,No
+2023,brighton,Yes
+2023,burnley,No
+2023,chelsea,Yes
+2023,crystal palace,Yes
+2023,everton,Yes
+2023,fulham,No
+2023,liverpool,No
+2023,luton,No
+2023,man city,No
+2023,man utd,Yes
+2023,newcastle,No
+2023,nottm forest,Yes
+2023,sheff utd,No
+2023,tottenham,Yes
+2023,west ham,No
+2023,wolves,Yes
+2024,arsenal,No
+2024,aston villa,No
+2024,bournemouth,No
+2024,brentford,No
+2024,brighton,No
+2024,chelsea,No
+2024,crystal palace,No
+2024,everton,No
+2024,fulham,No
+2024,liverpool,Yes
+2024,luton,No
+2024,man city,No
+2024,man utd,No
+2024,newcastle,No
+2024,nottm forest,No
+2024,sheff utd,No
+2024,southampton,No
+2024,tottenham,No
+2024,west ham,No
+2024,wolves,No
+2013,arsenal,No
+2013,aston villa,No
+2013,cardiff,No
+2013,chelsea,Yes
+2013,crystal palace,Yes
+2013,everton,Yes
+2013,fulham,No
+2013,hull city,No
+2013,liverpool,No
+2013,man city,Yes
+2013,man utd,Yes
+2013,newcastle,No
+2013,norwich,No
+2013,southampton,Yes
+2013,stoke city,Yes
+2013,sunderland,Yes
+2013,swansea,No
+2013,tottenham,Yes
+2013,west brom,Yes
+2013,west ham,No

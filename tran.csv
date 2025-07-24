@@ -1,0 +1,261 @@
+club_name,fee_total,year
+arsenal,52,2012
+aston villa,22,2012
+blackburn,15,2012
+bolton,12,2012
+chelsea,87,2012
+everton,25,2012
+fulham,20,2012
+liverpool,50,2012
+man city,55,2012
+man utd,60,2012
+newcastle,28,2012
+norwich,18,2012
+qpr,35,2012
+stoke city,15,2012
+sunderland,20,2012
+swansea,15,2012
+tottenham,55,2012
+west brom,12,2012
+wigan,10,2012
+wolves,10,2012
+arsenal,42,2013
+aston villa,30,2013
+cardiff,25,2013
+chelsea,105,2013
+crystal palace,25,2013
+everton,35,2013
+fulham,25,2013
+hull city,20,2013
+liverpool,45,2013
+man city,90,2013
+man utd,65,2013
+newcastle,30,2013
+norwich,22,2013
+southampton,20,2013
+stoke city,18,2013
+sunderland,25,2013
+swansea,20,2013
+tottenham,110,2013
+west brom,15,2013
+west ham,22,2013
+arsenal,86,2014
+aston villa,25,2014
+burnley,15,2014
+chelsea,110,2014
+crystal palace,30,2014
+everton,40,2014
+hull city,22,2014
+leicester,20,2014
+liverpool,120,2014
+man city,60,2014
+man utd,150,2014
+newcastle,35,2014
+qpr,30,2014
+southampton,25,2014
+stoke city,20,2014
+sunderland,22,2014
+swansea,18,2014
+tottenham,50,2014
+west brom,17,2014
+west ham,30,2014
+arsenal,90,2015
+aston villa,30,2015
+bournemouth,25,2015
+chelsea,95,2015
+crystal palace,35,2015
+everton,45,2015
+leicester,30,2015
+liverpool,80,2015
+man city,150,2015
+man utd,250,2015
+newcastle,50,2015
+norwich,20,2015
+southampton,40,2015
+stoke city,25,2015
+sunderland,30,2015
+swansea,20,2015
+tottenham,60,2015
+watford,35,2015
+west brom,20,2015
+west ham,40,2015
+arsenal,100,2016
+bournemouth,40,2016
+burnley,20,2016
+chelsea,120,2016
+crystal palace,50,2016
+everton,70,2016
+hull city,30,2016
+leicester,60,2016
+liverpool,80,2016
+man city,180,2016
+man utd,150,2016
+middlesbrough,25,2016
+southampton,60,2016
+stoke city,30,2016
+sunderland,25,2016
+swansea,35,2016
+tottenham,70,2016
+watford,40,2016
+west brom,25,2016
+west ham,50,2016
+man city,220,2017
+liverpool,160,2017
+chelsea,200,2017
+arsenal,130,2017
+everton,60,2017
+tottenham,90,2017
+west ham,45,2017
+newcastle,30,2017
+southampton,40,2017
+aston villa,25,2017
+swansea,20,2017
+leicester,35,2017
+stoke city,25,2017
+crystal palace,45,2017
+west brom,20,2017
+brighton,22,2017
+huddersfield,15,2017
+watford,30,2017
+burnley,18,2017
+bournemouth,22,2017
+man city,60,2018
+liverpool,170,2018
+chelsea,150,2018
+arsenal,70,2018
+everton,70,2018
+tottenham,0,2018
+west ham,50,2018
+newcastle,35,2018
+southampton,45,2018
+wolves,30,2018
+fulham,30,2018
+cardiff,20,2018
+leicester,40,2018
+watford,25,2018
+crystal palace,50,2018
+west brom,15,2018
+brighton,25,2018
+huddersfield,20,2018
+burnley,20,2018
+bournemouth,22,2018
+tottenham,100,2019
+west ham,55,2019
+arsenal,150,2019
+aston villa,40,2019
+brighton,30,2019
+burnley,22,2019
+chelsea,100,2019
+crystal palace,55,2019
+everton,80,2019
+leicester,45,2019
+liverpool,10,2019
+man city,140,2019
+man utd,200,2019
+newcastle,40,2019
+norwich,20,2019
+sheff utd,40,2019
+southampton,50,2019
+watford,25,2019
+wolves,35,2019
+bournemouth,22,2019
+tottenham,60,2020
+west ham,60,2020
+arsenal,80,2020
+aston villa,45,2020
+brighton,35,2020
+burnley,25,2020
+chelsea,220,2020
+crystal palace,60,2020
+everton,90,2020
+fulham,40,2020
+leicester,50,2020
+liverpool,80,2020
+man city,160,2020
+man utd,70,2020
+newcastle,45,2020
+southampton,55,2020
+west brom,20,2020
+leeds,35,2020
+sheff utd,40,2020
+wolves,40,2020
+tottenham,70,2021
+west ham,60,2021
+arsenal,150,2021
+aston villa,50,2021
+brighton,40,2021
+burnley,25,2021
+chelsea,120,2021
+crystal palace,65,2021
+everton,100,2021
+leeds,40,2021
+leicester,55,2021
+liverpool,40,2021
+man city,110,2021
+man utd,130,2021
+newcastle,50,2021
+norwich,20,2021
+southampton,50,2021
+watford,25,2021
+wolves,35,2021
+brentford,30,2021
+tottenham,150,2022
+west ham,100,2022
+arsenal,180,2022
+aston villa,120,2022
+brighton,100,2022
+burnley,50,2022
+chelsea,300,2022
+crystal palace,80,2022
+everton,80,2022
+fulham,60,2022
+leeds,70,2022
+leicester,70,2022
+liverpool,90,2022
+man city,120,2022
+man utd,240,2022
+newcastle,180,2022
+nottm forest,150,2022
+southampton,60,2022
+brentford,40,2022
+wolves,50,2022
+tottenham,180,2023
+west ham,100,2023
+arsenal,200,2023
+aston villa,120,2023
+brighton,120,2023
+burnley,80,2023
+chelsea,450,2023
+crystal palace,80,2023
+everton,70,2023
+fulham,90,2023
+liverpool,150,2023
+man city,200,2023
+man utd,190,2023
+newcastle,180,2023
+nottm forest,120,2023
+sheff utd,40,2023
+brentford,60,2023
+wolves,80,2023
+luton,30,2023
+bournemouth,70,2023
+tottenham,150,2024
+west ham,100,2024
+arsenal,200,2024
+aston villa,120,2024
+brighton,120,2024
+burnley,50,2024
+chelsea,100,2024
+crystal palace,80,2024
+everton,70,2024
+fulham,90,2024
+liverpool,150,2024
+man city,200,2024
+man utd,150,2024
+newcastle,180,2024
+nottm forest,120,2024
+sheff utd,40,2024
+brentford,60,2024
+wolves,80,2024
+luton,30,2024
+bournemouth,70,2024
