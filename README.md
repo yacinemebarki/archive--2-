@@ -1,134 +1,62 @@
-# archive--2-
+# 🏆 Premier League Rank Predictor
 
-A comprehensive archive repository for your projects, experiments, and code samples.
+This project uses a machine learning model to **predict the final rank** of Premier League teams based on:
 
----
-
-## Table of Contents
-
-- [About](#about)
-- [Technologies](#technologies)
-- [Folder Structure](#folder-structure)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Examples](#examples)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+- 📊 Previous season rank and points
+- 💸 Transfer spending in the summer
+- 🔢 Points in the current season (optional)
 
 ---
 
-## About
+## 📁 Dataset
 
-**archive--2-** is a repository designed to store, organize, and experiment with various code samples, scripts, and project archives. It serves as a personal or collaborative archive for development, learning, and sharing.
+The dataset includes the following columns:
 
----
+| Column Name        | Description                             |
+|--------------------|-----------------------------------------|
+| `Club`             | Name of the football team               |
+| `Year`             | Season year                             |
+| `Previous`         | Previous season rank                    |
+| `Previous_point`   | Points earned in previous season        |
+| `Pts`              | Current season points (optional input)  |
+| `Transfer`         | Money spent in summer transfer window   |
+| `#`                | Final league rank (target variable)     |
 
-## Technologies
-
-This repository may include code in various languages and frameworks. Common technologies used:
-
-- Python
-- JavaScript
-- Bash
-- Markdown
-- [Update according to your repo content]
-
----
-
-## Folder Structure
-
-```
-archive--2-/
-│
-├── src/              # Source code files
-├── scripts/          # Utility scripts
-├── docs/             # Documentation
-├── data/             # Data files and datasets
-├── tests/            # Test suites
-├── examples/         # Example projects or code snippets
-└── README.md         # Project overview
-```
-
-_Adapt structure to match your repository._
+✔️ Data is cleaned and sorted in descending order by year.
 
 ---
 
-## Installation
+## 🤖 Model Details
 
-Clone the repository:
+- **Algorithm**: `GradientBoosting`
+- **Input Features**:
+  - `Previous`
+  - `Previous_point`
+  - `Transfer`
+  - `Pts` 
 
-```bash
-git clone https://github.com/yacinemebarki/archive--2-.git
-cd archive--2-
-```
+### 📈 Evaluation Metrics
 
-Install dependencies (if any):
+| Metric    | Value  |
+|-----------|--------|
+| MAE       | 3.81   |
+| MSE       | 24.31  |
+| R² Score  | 0.10   |
 
-```bash
-# Example for Python
-pip install -r requirements.txt
-
-# Example for Node.js
-npm install
-```
-
----
-
-## Usage
-
-Describe how to run or use different scripts and projects in this repository.
-
-```bash
-# Run a Python script
-python src/example.py
-
-# Run a Node.js app
-node src/app.js
-```
-
-_Replace with actual usage instructions._
+> The model can predict a team’s rank within ~3.8 places on average.
 
 ---
 
-## Examples
+## 🧪 Example Prediction
 
-### Example 1: Running a Script
+```python
+input = pd.DataFrame({
+    "Previous": [3],
+    "Previous_point": [69],
+    "Transfer": [120_000_000],
+    "Pts": [85]
+})
 
-```bash
-python scripts/data_cleaner.py data/raw/input.csv data/processed/output.csv
-```
+prediction = model.predict(input)
+print(f"Predicted Rank: {round(prediction[0], 1)}")
 
-### Example 2: Using a Utility
-
-```bash
-bash scripts/setup_env.sh
-```
-
----
-
-## Contributing
-
-Contributions are welcome! To contribute:
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/your-feature`)
-3. Commit your changes (`git commit -am 'Add new feature'`)
-4. Push to the branch (`git push origin feature/your-feature`)
-5. Open a pull request
-
-Please read the [CONTRIBUTING](docs/CONTRIBUTING.md) guidelines first (if available).
-
----
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
-
-## Contact
-
-Maintainer: [yacinemebarki](https://github.com/yacinemebarki)
-
-Feel free to open issues for bug reports, suggestions, or questions!
